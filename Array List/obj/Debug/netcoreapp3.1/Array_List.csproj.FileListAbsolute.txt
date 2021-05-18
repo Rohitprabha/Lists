@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Array_List\bin\Debug\netcoreapp3.1\Array_List.exe
+C:\Users\Rohit Dasari\source\repos\Array_List\bin\Debug\netcoreapp3.1\Array_List.deps.json
+C:\Users\Rohit Dasari\source\repos\Array_List\bin\Debug\netcoreapp3.1\Array_List.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Array_List\bin\Debug\netcoreapp3.1\Array_List.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Array_List\bin\Debug\netcoreapp3.1\Array_List.dll
+C:\Users\Rohit Dasari\source\repos\Array_List\bin\Debug\netcoreapp3.1\Array_List.pdb
+C:\Users\Rohit Dasari\source\repos\Array_List\obj\Debug\netcoreapp3.1\Array_List.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Array_List\obj\Debug\netcoreapp3.1\Array_List.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Array_List\obj\Debug\netcoreapp3.1\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Array_List\obj\Debug\netcoreapp3.1\Array_List.dll
+C:\Users\Rohit Dasari\source\repos\Array_List\obj\Debug\netcoreapp3.1\Array_List.pdb
+C:\Users\Rohit Dasari\source\repos\Array_List\obj\Debug\netcoreapp3.1\Array_List.genruntimeconfig.cache
